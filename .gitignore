@@ -8,5 +8,11 @@ openai-quickstart-python
 results
 
 code/raw_extract
-code/data
-code/processed
+code/data/.ipynb_checkpoints
+code/data/images_beeldbank
+code/data/overig
+
+code/notebooks/BERT.IPYNB
+code/processed/processed_crossroads_en.csv
+code/processed/processed_egypte_nl.csv
+
